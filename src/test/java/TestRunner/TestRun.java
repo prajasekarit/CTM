@@ -11,12 +11,12 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions
 		(
-		features= {".//Features/"},
+		features= {".//Features/end_to_end.feature"},
 		glue="stepDefinitions",
 		dryRun=false,
-	//	monochrome=true,
+	    monochrome=true,
 		plugin= {"pretty","html:test-output"}//,
-	//	tags= {"@sanity, @regression"}
+		//tags= {"@Test,@sanity, @regression"}
 		)
 
 public class TestRun {

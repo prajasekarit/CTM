@@ -1,126 +1,267 @@
-2020-01-29 17:38:30,940 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 17:38:43,020 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 17:38:44,912 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 17:38:45,798 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 17:38:48,432 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 17:38:53,566 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 20:23:21,492 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 20:23:32,544 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 20:23:34,454 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 20:23:35,415 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 20:23:37,765 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 20:23:40,083 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 20:56:18,011 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 20:56:25,048 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 20:56:27,667 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 20:56:28,662 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 20:56:31,154 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 20:56:33,702 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 20:58:19,782 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 20:58:24,528 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 20:58:26,218 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 20:58:27,232 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 20:58:29,462 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 20:58:31,166 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 20:59:43,494 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 20:59:47,780 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 20:59:50,111 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 20:59:51,168 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 20:59:53,564 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 20:59:56,279 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 21:00:57,504 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 21:01:02,354 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 21:01:04,315 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 21:01:05,348 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 21:01:07,647 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 21:01:09,831 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 21:04:27,426 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 21:04:31,896 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 21:04:34,220 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 21:04:35,200 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 21:04:37,428 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 21:04:39,534 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 21:11:30,206 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 21:11:34,455 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 21:11:41,170 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 21:11:42,136 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 21:11:44,436 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 21:11:46,204 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 21:23:50,834 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 21:23:54,998 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 21:23:57,583 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-29 21:23:58,518 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-29 21:24:02,074 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-29 21:24:04,543 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-30 20:47:47,341 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-30 20:47:58,695 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-30 20:47:58,697 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-30 20:48:02,744 [main] INFO nopComemrce - ******** Enter the Text in Google Search*********
-2020-01-30 20:48:12,801 [main] INFO nopComemrce - ********Validate the Number of Links with Search Term Literal*********
-2020-01-30 20:48:12,968 [main] INFO nopComemrce - Number of times the GUM TREE Text displayed in First page is : 1
-2020-01-30 20:48:12,975 [main] INFO nopComemrce - ******** Validate the Title is Displayed as Expected*********
-2020-01-30 20:48:18,843 [main] INFO nopComemrce - Actual Header Getting Displayed: 
-2020-01-30 20:48:19,035 [main] INFO nopComemrce - ******** Closing the browser*********
-2020-01-30 20:48:19,036 [main] INFO nopComemrce - Closing the Browser
-2020-01-30 20:48:21,377 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-30 20:48:24,156 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-30 20:48:24,159 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-30 20:48:28,130 [main] INFO nopComemrce - ******** Enter the Text in Google Search*********
-2020-01-30 20:48:34,554 [main] INFO nopComemrce - ********Validate the Number of Links with Search Term Literal*********
-2020-01-30 20:48:34,583 [main] INFO nopComemrce - Number of times the GUM TREE Text displayed in First page is : 2
-2020-01-30 20:48:34,587 [main] INFO nopComemrce - ******** Validate the Title is Displayed as Expected*********
-2020-01-30 20:48:40,407 [main] INFO nopComemrce - Actual Header Getting Displayed: Pardon Our Interruption
-2020-01-30 20:48:43,106 [main] INFO nopComemrce - Actual Header Getting Displayed: Pardon Our Interruption
-2020-01-30 20:48:43,203 [main] INFO nopComemrce - ******** Closing the browser*********
-2020-01-30 20:48:43,203 [main] INFO nopComemrce - Closing the Browser
-2020-01-30 20:50:10,238 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-30 20:50:16,331 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-30 20:50:16,335 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-30 20:50:18,910 [main] INFO nopComemrce - ******** Enter the Text in Google Search*********
-2020-01-30 20:50:23,703 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-30 20:50:27,227 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-30 20:50:27,230 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-30 20:50:32,698 [main] INFO nopComemrce - ******** Enter the Text in Google Search*********
-2020-01-30 20:50:40,255 [main] INFO nopComemrce - ********Validate the Number of Links with Search Term Literal*********
-2020-01-30 20:50:40,300 [main] INFO nopComemrce - Number of times the GUM TREE Text displayed in First page is : 1
-2020-01-30 20:50:40,308 [main] INFO nopComemrce - ******** Validate the Title is Displayed as Expected*********
-2020-01-30 20:50:45,947 [main] INFO nopComemrce - Actual Header Getting Displayed: Pardon Our Interruption
-2020-01-30 20:50:45,993 [main] INFO nopComemrce - ******** Closing the browser*********
-2020-01-30 20:50:45,993 [main] INFO nopComemrce - Closing the Browser
-2020-01-30 20:57:56,808 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-30 20:59:01,841 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-30 20:59:01,844 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-30 20:59:04,186 [main] INFO nopComemrce - ******** Enter the Text in Google Search*********
-2020-01-30 20:59:11,786 [main] INFO nopComemrce - ********Validate the Number of Links with Search Term Literal*********
-2020-01-30 20:59:11,856 [main] INFO nopComemrce - Number of times the GUM TREE Text displayed in First page is : 1
-2020-01-30 20:59:11,944 [main] INFO nopComemrce - ******** Validate the Title is Displayed as Expected*********
-2020-01-30 21:04:56,167 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-30 21:05:04,645 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-30 21:05:04,651 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-30 21:05:06,651 [main] INFO nopComemrce - ******** Enter the Text in Google Search*********
-2020-01-30 21:05:16,540 [main] INFO nopComemrce - ********Validate the Number of Links with Search Term Literal*********
-2020-01-30 21:05:16,600 [main] INFO nopComemrce - Number of times the GUM TREE Text displayed in First page is : 1
-2020-01-30 21:05:16,606 [main] INFO nopComemrce - ******** Validate the Title is Displayed as Expected*********
-2020-01-30 21:05:16,630 [main] INFO nopComemrce - Gum tree elements:1
-2020-01-30 21:05:25,666 [main] INFO nopComemrce - Actual Header Getting Displayed: 
-2020-01-30 21:05:25,798 [main] INFO nopComemrce - ******** Closing the browser*********
-2020-01-30 21:05:25,798 [main] INFO nopComemrce - Closing the Browser
-2020-01-30 21:05:28,597 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-30 21:05:32,429 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-30 21:05:32,437 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-30 21:05:34,596 [main] INFO nopComemrce - ******** Enter the Text in Google Search*********
-2020-01-31 21:04:40,178 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-31 21:05:05,182 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-31 21:05:05,185 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-31 21:05:08,258 [main] INFO nopComemrce - ******** Enter the Text in Google Search*********
-2020-01-31 21:05:20,331 [main] INFO nopComemrce - ********Validate the Number of Links with Search Term Literal*********
-2020-01-31 21:05:21,004 [main] INFO nopComemrce - Number of times the GUM TREE Text displayed in First page is : 1
-2020-01-31 21:05:21,184 [main] INFO nopComemrce - ******** Validate the Title is Displayed as Expected*********
-2020-01-31 21:05:21,212 [main] INFO nopComemrce - Gum tree elements:1
-2020-01-31 21:05:45,097 [main] INFO nopComemrce - Actual Header Getting Displayed: Pardon Our Interruption
-2020-01-31 21:05:45,485 [main] INFO nopComemrce - ******** Closing the browser*********
-2020-01-31 21:05:45,489 [main] INFO nopComemrce - Closing the Browser
-2020-01-31 21:05:50,583 [main] INFO nopComemrce - ===Browser to be Selected =====
-2020-01-31 21:06:00,016 [main] INFO nopComemrce - ******** Launching browser*********
-2020-01-31 21:06:00,019 [main] INFO nopComemrce - ******** Launching Google.com*********
-2020-01-31 21:06:07,204 [main] INFO nopComemrce - ******** Enter the Text in Google Search*********
+2020-02-08 18:10:13,903 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 18:10:24,924 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 18:10:24,931 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 18:10:35,843 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 18:10:36,446 [main] INFO CTM SDET test - ******** Click on Next Button*********
+2020-02-08 18:15:40,364 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 18:15:46,905 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 18:15:46,914 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 18:15:52,502 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 18:15:53,054 [main] INFO CTM SDET test - ******** Click on Next Button*********
+2020-02-08 18:15:53,523 [main] INFO CTM SDET test - ******** Verify the Error meaage at Bottom of Page *********
+2020-02-08 18:15:53,562 [main] INFO CTM SDET test - Error Message Displayed isNext
+2020-02-08 18:15:53,594 [main] INFO CTM SDET test - Error Message Displayed isNext
+2020-02-08 18:18:36,466 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 18:18:46,552 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 18:18:46,559 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 18:18:53,280 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 18:18:53,599 [main] INFO CTM SDET test - ******** Click on Next Button*********
+2020-02-08 18:18:53,873 [main] INFO CTM SDET test - ******** Verify the Error meaage at Bottom of Page *********
+2020-02-08 18:18:53,920 [main] INFO CTM SDET test - Error Message Displayed isNext
+2020-02-08 18:20:36,594 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 18:20:49,286 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 18:20:49,293 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 18:20:56,381 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 18:20:56,880 [main] INFO CTM SDET test - ******** Click on Next Button*********
+2020-02-08 18:20:57,418 [main] INFO CTM SDET test - ******** Verify the Error meaage at Bottom of Page *********
+2020-02-08 18:20:57,480 [main] INFO CTM SDET test - Error Message Displayed isComplete postcode question to continue  view question
+2020-02-08 18:20:57,482 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-08 18:20:57,483 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-08 19:16:18,708 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 19:16:32,685 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 19:16:32,689 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 19:16:50,708 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 19:18:22,955 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 19:18:30,741 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 19:18:30,744 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 19:18:35,063 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 19:18:35,340 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 19:18:35,341 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 19:21:41,987 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 19:21:49,583 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 19:21:49,592 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 19:22:00,052 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 19:22:00,224 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 19:22:00,225 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 19:26:05,472 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 19:26:35,133 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 19:26:35,141 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 19:26:45,278 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 19:27:04,137 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 19:27:11,592 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 19:31:27,948 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 19:32:46,067 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 19:32:57,614 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 19:32:57,621 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 19:33:03,011 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 19:33:16,163 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 19:33:38,463 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 19:35:39,246 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 19:35:51,146 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 19:35:51,156 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 19:36:00,513 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 19:36:00,951 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 19:36:00,952 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 19:41:01,481 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 19:41:09,038 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 19:41:09,044 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 19:41:23,400 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 19:41:23,711 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 19:41:23,712 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 19:53:24,710 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 19:53:32,743 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 19:53:32,750 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 19:53:42,257 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 19:53:42,329 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 19:53:42,329 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 19:53:43,134 [main] INFO CTM SDET test - ********Select other values form Your Supplier Page*********
+2020-02-08 19:53:43,134 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-08 19:53:46,826 [main] INFO CTM SDET test - *****************Click on the Next page Link***************
+2020-02-08 19:53:46,826 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-08 21:19:00,828 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 21:19:16,685 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 21:19:16,690 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 21:19:22,406 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 21:19:22,782 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 21:19:22,783 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 21:19:24,354 [main] INFO CTM SDET test - ********Select other values form Your Supplier Page*********
+2020-02-08 21:19:24,354 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-08 21:19:28,713 [main] INFO CTM SDET test - *****************Click on the Next page Link***************
+2020-02-08 21:19:28,714 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-08 21:19:30,353 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 21:19:41,593 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 21:19:41,597 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 21:20:01,168 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 21:20:01,176 [main] INFO CTM SDET test - ******** Click on Next Button*********
+2020-02-08 21:20:01,630 [main] INFO CTM SDET test - ******** Verify the Error meaage at Bottom of Page *********
+2020-02-08 21:20:01,715 [main] INFO CTM SDET test - Error Message Displayed isComplete postcode question to continue  view question
+2020-02-08 23:23:43,153 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 23:23:59,486 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 23:23:59,494 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 23:24:17,397 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 23:24:17,863 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 23:24:17,864 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 23:24:18,667 [main] INFO CTM SDET test - ********Select other values form Your Supplier Page*********
+2020-02-08 23:24:18,668 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-08 23:24:22,341 [main] INFO CTM SDET test - *****************Click on the Next page Link***************
+2020-02-08 23:24:22,341 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-08 23:24:23,025 [main] INFO CTM SDET test - *****************Validate Your Energy page***************
+2020-02-08 23:26:51,164 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 23:27:04,283 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 23:27:04,293 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 23:27:11,196 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 23:27:11,448 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 23:27:11,448 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 23:27:12,103 [main] INFO CTM SDET test - ********Select other values form Your Supplier Page*********
+2020-02-08 23:27:12,104 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-08 23:27:16,174 [main] INFO CTM SDET test - *****************Click on the Next page Link***************
+2020-02-08 23:27:16,174 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-08 23:27:19,704 [main] INFO CTM SDET test - *****************Validate Your Energy page***************
+2020-02-08 23:37:43,010 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 23:37:52,617 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 23:37:52,625 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 23:38:04,885 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 23:38:06,399 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 23:38:06,399 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 23:38:07,518 [main] INFO CTM SDET test - ********Select other values form Your Supplier Page*********
+2020-02-08 23:38:07,671 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-08 23:38:11,275 [main] INFO CTM SDET test - *****************Click on the Next page Link***************
+2020-02-08 23:38:11,275 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-08 23:38:14,784 [main] INFO CTM SDET test - *****************Validate Your Energy page***************
+2020-02-08 23:41:39,277 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 23:42:09,484 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 23:42:09,495 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 23:42:20,579 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 23:42:20,924 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 23:42:20,925 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 23:42:21,797 [main] INFO CTM SDET test - ********Select other values form Your Supplier Page*********
+2020-02-08 23:42:21,798 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-08 23:42:26,447 [main] INFO CTM SDET test - *****************Click on the Next page Link***************
+2020-02-08 23:42:26,447 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-08 23:42:45,242 [main] INFO CTM SDET test - *****************Validate Your Energy page***************
+2020-02-08 23:45:45,230 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 23:45:54,408 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 23:45:54,413 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 23:46:03,696 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 23:46:03,752 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 23:46:03,752 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 23:46:06,025 [main] INFO CTM SDET test - ********Select other values form Your Supplier Page*********
+2020-02-08 23:46:06,026 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-08 23:46:07,369 [main] INFO CTM SDET test - *****************Validate Your Energy page***************
+2020-02-08 23:46:07,371 [main] INFO CTM SDET test - *****************Click on Next Button***************
+2020-02-08 23:48:58,259 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 23:49:06,948 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 23:49:06,956 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 23:49:12,305 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 23:49:12,561 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 23:49:12,562 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 23:49:13,170 [main] INFO CTM SDET test - ********Select other values form Your Supplier Page*********
+2020-02-08 23:49:13,170 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-08 23:49:15,327 [main] INFO CTM SDET test - *****************Validate Your Energy page***************
+2020-02-08 23:49:15,328 [main] INFO CTM SDET test - *****************Click on Next Button***************
+2020-02-08 23:50:48,807 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 23:54:51,916 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-08 23:55:26,629 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-08 23:55:26,631 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-08 23:55:31,510 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-08 23:55:32,042 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-08 23:55:32,043 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-08 23:55:32,612 [main] INFO CTM SDET test - ********Select other values form Your Supplier Page*********
+2020-02-08 23:55:37,924 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-08 23:56:29,235 [main] INFO CTM SDET test - *****************Click on the Next page Link***************
+2020-02-08 23:56:29,238 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-08 23:56:56,650 [main] INFO CTM SDET test - *****************Validate Your Energy page***************
+2020-02-08 23:57:27,023 [main] INFO CTM SDET test - *****************Click on Next Button***************
+2020-02-09 00:02:32,880 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 00:02:41,015 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-09 00:02:41,018 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-09 00:02:45,752 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-09 00:02:45,954 [main] INFO CTM SDET test - ********Valid Post code passed to the Post coe field*********
+2020-02-09 00:02:45,954 [main] INFO CTM SDET test - Post code Provided to Enter is : PE2 6YS
+2020-02-09 00:02:46,504 [main] INFO CTM SDET test - ********Select other values form Your Supplier Page*********
+2020-02-09 00:02:46,505 [main] INFO CTM SDET test - Select other Fields in the Your Supplier Page
+2020-02-09 00:02:50,174 [main] INFO CTM SDET test - *****************Click on the Next page Link***************
+2020-02-09 00:02:50,175 [main] INFO CTM SDET test - Click on the Next page Link and Validate Link is working fine
+2020-02-09 00:02:54,577 [main] INFO CTM SDET test - *****************Validate Your Energy page***************
+2020-02-09 00:02:54,764 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 00:03:07,028 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-09 00:03:07,029 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-09 00:03:16,233 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-09 00:03:16,237 [main] INFO CTM SDET test - ******** Validate the Title *********
+2020-02-09 00:03:16,306 [main] INFO CTM SDET test - Current Url is: https://energy.comparethemarket.com/energy/v2/
+2020-02-09 00:03:16,306 [main] INFO CTM SDET test - ******** Validate the Title and Header *********
+2020-02-09 00:03:16,323 [main] INFO CTM SDET test - Current Title is: Energy - Compare Gas and Electricity Suppliers | Compare The Market
+2020-02-09 00:03:18,987 [main] INFO CTM SDET test - Current Header is: Energy quote
+2020-02-09 00:03:18,988 [main] INFO CTM SDET test - ******** Validate the Sub_Header *********
+2020-02-09 00:03:19,032 [main] INFO CTM SDET test - Sub_Header Displayed for your_supplier: Your supplier
+2020-02-09 00:03:19,079 [main] INFO CTM SDET test - Sub_Header Displayed for your_energy: Your energy
+2020-02-09 00:03:19,125 [main] INFO CTM SDET test - Sub_Header Displayed for your_details: Your details
+2020-02-09 00:03:19,174 [main] INFO CTM SDET test - Sub_Header Displayed for your_result: Your results
+2020-02-09 00:03:19,221 [main] INFO CTM SDET test - Sub_Header Displayed for switch now: Switch now
+2020-02-09 00:03:19,223 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 00:03:19,223 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 00:03:20,629 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 00:03:33,463 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-09 00:03:33,464 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-09 00:03:51,360 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-09 00:03:51,364 [main] INFO CTM SDET test - ******** Validate the Sub Text *********
+2020-02-09 00:03:51,471 [main] INFO CTM SDET test -  Static Text Displayed: Been here before?
+2020-02-09 00:03:51,471 [main] INFO CTM SDET test -  Static Text Displayed_1: Save yourself some time by reviewing or editing a previous quote.
+2020-02-09 00:03:51,473 [main] INFO CTM SDET test - ******** Validate the Previous Energy Quotes *********
+2020-02-09 00:03:51,528 [main] INFO CTM SDET test - Link Text is: Previous energy quotes
+2020-02-09 00:03:57,354 [main] INFO CTM SDET test - Navigating to Sign in Bage:https://signin.comparethemarket.com/login?signin=080b1d602d7155e162e7c4887e1bba57
+2020-02-09 00:03:57,364 [main] INFO CTM SDET test - New Page Title is: Sign in
+2020-02-09 00:04:04,091 [main] INFO CTM SDET test - ******** Validate the Sub_Header *********
+2020-02-09 00:04:04,559 [main] INFO CTM SDET test - Been_here_btn_text Displayed is: How to get started?
+2020-02-09 00:04:04,807 [main] INFO CTM SDET test - Been_here_is Clicked
+2020-02-09 00:04:05,093 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 00:04:05,094 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 00:04:08,158 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 00:04:19,451 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-09 00:04:19,453 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-09 00:04:29,559 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-09 00:04:29,564 [main] INFO CTM SDET test - ******** Validate Current Supplier Text *********
+2020-02-09 00:04:29,613 [main] INFO CTM SDET test - Current Supplier Text is: Your current supplier
+2020-02-09 00:04:29,665 [main] INFO CTM SDET test - Post Code Text is: What is your postcode?
+2020-02-09 00:04:29,666 [main] INFO CTM SDET test - ******** Validate Post code without Any input *********
+2020-02-09 00:04:29,667 [main] INFO CTM SDET test - Check the Find PostCode Button
+2020-02-09 00:04:29,739 [main] INFO CTM SDET test - ******** Validate Error message is not displayed in Post code Area *********
+2020-02-09 00:04:30,008 [main] INFO CTM SDET test - Error message is not getting displayed
+2020-02-09 00:04:30,009 [main] INFO CTM SDET test - ******** Send the Invalid Post code *********
+2020-02-09 00:04:30,441 [main] INFO CTM SDET test - ******** Validate Error message is displayed in Post code Area *********
+2020-02-09 00:04:30,553 [main] INFO CTM SDET test - Error message is getting displayed
+2020-02-09 00:04:30,555 [main] INFO CTM SDET test - ******** Send the Invalid Post code *********
+2020-02-09 00:04:31,020 [main] INFO CTM SDET test - ******** Validate Error message is  not displayed in Post code Area and Button text is changed *********
+2020-02-09 00:04:31,883 [main] INFO CTM SDET test - Button is changed to Change Postcode
+2020-02-09 00:04:31,885 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 00:04:31,885 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 00:04:32,181 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 00:04:41,163 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-09 00:04:41,165 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-09 00:04:51,712 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-09 00:04:51,716 [main] INFO CTM SDET test - ******** Click on Next Button*********
+2020-02-09 00:04:51,981 [main] INFO CTM SDET test - ******** Verify the Error meaage at Bottom of Page *********
+2020-02-09 00:04:52,064 [main] INFO CTM SDET test - Error Message Displayed isComplete postcode question to continue  view question
+2020-02-09 00:04:52,067 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 00:04:52,068 [main] INFO CTM SDET test - ******** Closing the browser*********
+2020-02-09 00:16:48,825 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 00:16:57,219 [main] INFO CTM SDET test - ******** Launching browser*********
+2020-02-09 00:16:57,222 [main] INFO CTM SDET test - ******** Launching the Website*********
+2020-02-09 00:17:06,912 [main] INFO CTM SDET test - ******** Energy Quote Page is launched*********
+2020-02-09 00:17:07,015 [main] INFO CTM SDET test - *****************Validate Your Energy page***************
+2020-02-09 00:52:03,010 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 00:54:47,327 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 00:57:40,718 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 00:59:08,978 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 01:03:49,548 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 01:29:41,825 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 01:35:22,259 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 01:38:50,315 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 01:40:44,026 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 01:43:47,992 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 01:45:22,409 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 01:48:01,309 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 01:49:00,866 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 01:51:55,809 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 01:53:36,722 [main] INFO CTM SDET test - ===Browser to be Selected =====
+2020-02-09 01:55:59,540 [main] INFO CTM SDET test - ===Browser to be Selected =====

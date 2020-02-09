@@ -1,11 +1,11 @@
-$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("file:Features/login.feature");
+$(document).ready(function() {var formatter = new CucumberHTML.DOMFormatter($('.cucumber-report'));formatter.uri("file:Features/end_to_end.feature");
 formatter.feature({
-  "name": "GUMTREE GOOGLE Search",
+  "name": "ENERGY QUOTE Navigation Test",
   "description": "",
   "keyword": "Feature"
 });
 formatter.scenarioOutline({
-  "name": "Validate the GUMTREE links in Google Search",
+  "name": "Validate The page navigation for Your supplier page",
   "description": "",
   "keyword": "Scenario Outline"
 });
@@ -18,19 +18,19 @@ formatter.step({
   "keyword": "And "
 });
 formatter.step({
-  "name": "Google.com is launched send the literal \u003csearchterm\u003e in Google text box and Enter the search button",
+  "name": "Energy Quote page is launched",
   "keyword": "When "
 });
 formatter.step({
-  "name": "Verify the links with the Literal \u003csearch_GUM_TREE\u003e and confirm the number of links displayed is more than one",
+  "name": "Enter the \u003cvalid\u003e Post code",
   "keyword": "Then "
 });
 formatter.step({
-  "name": "verify that the title is getting is displayed",
+  "name": "Select the Mandatory fields in the Your Supplier Page and click Next",
   "keyword": "And "
 });
 formatter.step({
-  "name": "Close Browsers",
+  "name": "Verify the Page is navigate to the Your Energy details",
   "keyword": "Then "
 });
 formatter.examples({
@@ -42,30 +42,20 @@ formatter.examples({
       "cells": [
         "browser",
         "url",
-        "searchterm",
-        "search_GUM_TREE"
+        "valid"
       ]
     },
     {
       "cells": [
         "chrome",
-        "https://google.com",
-        "Cars in London",
-        "GUM TREE"
-      ]
-    },
-    {
-      "cells": [
-        "chrome-headless",
-        "https://google.com",
-        "Cars in London",
-        "GUM TREE"
+        "https://energy.comparethemarket.com/energy/v2/?AFFCLIE\u003dTSTT",
+        "PE2 6YS"
       ]
     }
   ]
 });
 formatter.scenario({
-  "name": "Validate the GUMTREE links in Google Search",
+  "name": "Validate The page navigation for Your supplier page",
   "description": "",
   "keyword": "Scenario Outline"
 });
@@ -77,63 +67,121 @@ formatter.step({
   "keyword": "Given "
 });
 formatter.match({
-  "location": "steps.initialize_the_browser(String)"
+  "location": "Steps.initialize_the_browser(String)"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "Navigate to https://google.com Site",
+  "name": "Navigate to https://energy.comparethemarket.com/energy/v2/?AFFCLIE\u003dTSTT Site",
   "keyword": "And "
 });
 formatter.match({
-  "location": "steps.navigate_to_site(String)"
+  "location": "Steps.navigate_to_site(String)"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "Google.com is launched send the literal Cars in London in Google text box and Enter the search button",
+  "name": "Energy Quote page is launched",
   "keyword": "When "
 });
 formatter.match({
-  "location": "steps.googlecom_is_launched_send_the_literal_in_google_text_box_and_enter_the_search_button(String)"
+  "location": "Steps.energy_quote_page_is_launched()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "Verify the links with the Literal GUM TREE and confirm the number of links displayed is more than one",
+  "name": "Enter the PE2 6YS Post code",
   "keyword": "Then "
 });
 formatter.match({
-  "location": "steps.verify_the_links_with_the_literal_and_confirm_the_number_of_links_displayed_is_more_than_one(String)"
+  "location": "Steps.enter_the_post_code(String)"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "verify that the title is getting is displayed",
+  "name": "Select the Mandatory fields in the Your Supplier Page and click Next",
   "keyword": "And "
 });
 formatter.match({
-  "location": "steps.verify_that_the_title_is_getting_is_displayed()"
+  "location": "Steps.select_the_mandatory_fields_in_the_your_supplier_page_and_click_next()"
 });
 formatter.result({
   "status": "passed"
 });
 formatter.step({
-  "name": "Close Browsers",
+  "name": "Verify the Page is navigate to the Your Energy details",
   "keyword": "Then "
 });
 formatter.match({
-  "location": "steps.close_browsers()"
+  "location": "Steps.verify_the_page_is_navigate_to_the_your_energy_details()"
 });
 formatter.result({
   "status": "passed"
 });
+formatter.scenarioOutline({
+  "name": "Validate The page navigation for Your Energy page",
+  "description": "",
+  "keyword": "Scenario Outline"
+});
+formatter.step({
+  "name": "Navigated to Your Energy page",
+  "keyword": "Given "
+});
+formatter.step({
+  "name": "I clicked on the Next button",
+  "keyword": "When "
+});
+formatter.step({
+  "name": "Verify the \u003cerror\u003e message is populated in the bottem of the page and",
+  "keyword": "Then "
+});
+formatter.step({
+  "name": "Amount field is selected",
+  "keyword": "When "
+});
+formatter.step({
+  "name": "Verify that \"What is the date on your bill?\" should get displayed",
+  "keyword": "Then "
+});
+formatter.step({
+  "name": "Economy Meter selected as Yes and kWH is selected",
+  "keyword": "When "
+});
+formatter.step({
+  "name": "Verify Day time and Night time electricity usage menu should get displayed",
+  "keyword": "Then "
+});
+formatter.step({
+  "name": "Economy Meter selected as \"No\" and kWH is selected",
+  "keyword": "When "
+});
+formatter.step({
+  "name": "Verify only one reading box should get displayed",
+  "keyword": "Then "
+});
+formatter.examples({
+  "name": "",
+  "description": "",
+  "keyword": "Examples",
+  "rows": [
+    {
+      "cells": [
+        "error"
+      ]
+    },
+    {
+      "cells": [
+        "Complete this section to continue 1 question remaining"
+      ]
+    }
+  ]
+});
 formatter.scenario({
-  "name": "Validate the GUMTREE links in Google Search",
+  "name": "Validate The page navigation for Your Energy page",
   "description": "",
   "keyword": "Scenario Outline"
 });
@@ -141,62 +189,92 @@ formatter.before({
   "status": "passed"
 });
 formatter.step({
-  "name": "Initialize the chrome-headless browser",
+  "name": "Navigated to Your Energy page",
   "keyword": "Given "
 });
 formatter.match({
-  "location": "steps.initialize_the_browser(String)"
+  "location": "Steps.navigated_to_your_energy_page()"
 });
 formatter.result({
-  "status": "passed"
-});
-formatter.step({
-  "name": "Navigate to https://google.com Site",
-  "keyword": "And "
-});
-formatter.match({
-  "location": "steps.navigate_to_site(String)"
-});
-formatter.result({
-  "status": "passed"
-});
-formatter.step({
-  "name": "Google.com is launched send the literal Cars in London in Google text box and Enter the search button",
-  "keyword": "When "
-});
-formatter.match({
-  "location": "steps.googlecom_is_launched_send_the_literal_in_google_text_box_and_enter_the_search_button(String)"
-});
-formatter.result({
-  "error_message": "org.openqa.selenium.ElementNotInteractableException: element not interactable\n  (Session info: headless chrome\u003d79.0.3945.130)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027RAJARAJI\u0027, ip: \u0027192.168.0.2\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027x86\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_231\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 79.0.3945.130, chrome: {chromedriverVersion: 79.0.3945.36 (3582db32b3389..., userDataDir: C:\\Users\\RAJA\\AppData\\Local...}, goog:chromeOptions: {debuggerAddress: localhost:52197}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 105d622bca35ec4bf279c0ce2267d3ff\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.lang.reflect.Constructor.newInstance(Constructor.java:423)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)\r\n\tat sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.lang.reflect.Method.invoke(Method.java:498)\r\n\tat org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:51)\r\n\tat com.sun.proxy.$Proxy16.click(Unknown Source)\r\n\tat PageObjects.LoginPage.Searchterm(LoginPage.java:48)\r\n\tat stepDefinitions.steps.googlecom_is_launched_send_the_literal_in_google_text_box_and_enter_the_search_button(steps.java:62)\r\n\tat ✽.Google.com is launched send the literal Cars in London in Google text box and Enter the search button(file:Features/login.feature:7)\r\n",
+  "error_message": "java.lang.NullPointerException\r\n\tat stepDefinitions.Steps.navigated_to_your_energy_page(Steps.java:210)\r\n\tat ✽.Navigated to Your Energy page(file:Features/end_to_end.feature:20)\r\n",
   "status": "failed"
 });
 formatter.step({
-  "name": "Verify the links with the Literal GUM TREE and confirm the number of links displayed is more than one",
-  "keyword": "Then "
+  "name": "I clicked on the Next button",
+  "keyword": "When "
 });
 formatter.match({
-  "location": "steps.verify_the_links_with_the_literal_and_confirm_the_number_of_links_displayed_is_more_than_one(String)"
+  "location": "Steps.i_clicked_on_the_next_button()"
 });
 formatter.result({
   "status": "skipped"
 });
 formatter.step({
-  "name": "verify that the title is getting is displayed",
-  "keyword": "And "
+  "name": "Verify the Complete this section to continue 1 question remaining message is populated in the bottem of the page and",
+  "keyword": "Then "
 });
 formatter.match({
-  "location": "steps.verify_that_the_title_is_getting_is_displayed()"
+  "location": "Steps.verify_the_message_is_populated_in_the_bottem_of_the_page_and(String)"
 });
 formatter.result({
   "status": "skipped"
 });
 formatter.step({
-  "name": "Close Browsers",
+  "name": "Amount field is selected",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "Steps.amount_field_is_selected()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.step({
+  "name": "Verify that \"What is the date on your bill?\" should get displayed",
   "keyword": "Then "
 });
 formatter.match({
-  "location": "steps.close_browsers()"
+  "location": "Steps.verify_that_something_should_get_displayed(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.step({
+  "name": "Economy Meter selected as Yes and kWH is selected",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "Steps.economy_meter_selected_as_yes_and_kwh_is_selected()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.step({
+  "name": "Verify Day time and Night time electricity usage menu should get displayed",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.verify_day_time_and_night_time_electricity_usage_menu_should_get_displayed()"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.step({
+  "name": "Economy Meter selected as \"No\" and kWH is selected",
+  "keyword": "When "
+});
+formatter.match({
+  "location": "Steps.economy_meter_selected_as_something_and_kwh_is_selected(String)"
+});
+formatter.result({
+  "status": "skipped"
+});
+formatter.step({
+  "name": "Verify only one reading box should get displayed",
+  "keyword": "Then "
+});
+formatter.match({
+  "location": "Steps.verify_only_one_reading_box_should_get_displayed()"
 });
 formatter.result({
   "status": "skipped"
